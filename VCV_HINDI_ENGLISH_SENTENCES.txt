@@ -1,0 +1,24 @@
+15 VCV sentences along with their hindi translations.
+
+
+"Eve sees me." - "ईव मुझे देखती है।"
+"I owe you." - "मैं तुम्हारा कर्ज़दार हूँ।"
+"Oak owns it." - "ओक इसका मालिक है।"
+"Abe eats eel." - "एब ईल खाता है।"
+"Ed ekes out." - "एड बचत करता है।"
+"I am in it." - "मैं इसमें हूँ।"
+"I use oil." - "मैं तेल का उपयोग करता हूँ।"
+"Ivan is in." - "इवान इसमें है।"
+"Amy is in." - "ऐमी इसमें है।"
+"Owen owes Ed." - "ओवन एड का कर्ज़दार है।"
+"Ada ate apricots." - "एडा खुबानी खाती थी।"
+"Ivy owes Ed." - "आईवी एड का कर्ज़दार है।"
+"Eve needs ink." - "ईव को स्याही की आवश्यकता है।"
+"Owen owns one." - "ओवन एक का मालिक है।"
+"Amy is OK." - "ऐमी ठीक है।"
+
+
+
+
+
+
